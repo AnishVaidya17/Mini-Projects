@@ -67,15 +67,7 @@ connect_to_db()         #connect_to_db called whenever the bookapp.py is execute
 
 
 
-#insert_into_db("Harry Potter2", "JK Rowling", 2006, 9222767)
-#delete_data(4)
 
-#print("\n")
-#print(view_data())
-#update_data(2, "Percy Jackson", "Rick Riordan", 2014, 5678910)
-#print("\n")
-#print(view_data())
-#print(search_data(author = "Rick Riordan"))
 
 
 
