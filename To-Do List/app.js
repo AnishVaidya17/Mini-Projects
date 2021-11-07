@@ -54,9 +54,6 @@ function addtodo(event)
 
 
    
-   /* So what we are doing here is, creating the divs as the user adds the 
-      items 'todo', and then we are creating a list for todo-items, then a button for check and trash
-      which are then appended to the todo-items list*/
 
    //APPEND TO THE MAIN LIST
    todoList.appendChild(todoDiv);
@@ -190,9 +187,6 @@ function getTodos(){
 
 
    
-   /* So what we are doing here is, creating the divs as the user adds the 
-      items 'todo', and then we are creating a list for todo-items, then a button for check and trash
-      which are then appended to the todo-items list*/
 
    //APPEND TO THE MAIN LIST
    todoList.appendChild(todoDiv);
